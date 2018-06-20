@@ -168,8 +168,9 @@
   * [Vote](source/vote.md)
 * [流程分析](runflow/readme.md)
   * [readme](runflow/readme.md)
-  * 交易处理
-  * 区块处理
-  * 透明锻造
-  * 区块同步
+  * [交易处理](runflow/jiao-yi-chu-li.md)
+  * [区块处理](runflow/qu-kuai-chu-li.md)
+  * [透明锻造](runflow/tou-ming-duan-zao.md)
+  * [区块同步](runflow/qu-kuai-tong-bu.md)
+* Appendix
 
