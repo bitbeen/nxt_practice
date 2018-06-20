@@ -12,32 +12,40 @@
  * crypto
  * http
  * peer
+   * GetCumulativeDifficulty
+   * GetInfo
+   * GetMilestoneBlockIds
+   * GetNextBlockIds
+   * GetNextBlocks
+   * GetPeers
+   * GetUnconfirmedTransactions
+   
+   
  * user
-  * GenerateAuthorizationToken
-  * GetInitialData
-  * JSONResponses
-  * RemoveActivePeer
-  * RemoveBlacklistedPeer
-  * RemoveKnownPeer
-  * SendMoney
-  * UnlockAccount
-  * LockAccount
-  * User
-  * Users
-  * UserServlet
-  
+   * GenerateAuthorizationToken
+   * GetInitialData
+   * JSONResponses
+   * RemoveActivePeer
+   * RemoveBlacklistedPeer
+   * RemoveKnownPeer
+   * SendMoney
+   * UnlockAccount
+   * LockAccount
+   * User
+   * Users
+   * UserServlet  
  * util
-  * Convert
-  * CountingInputStream
-  * CountingOutputStream
-  * DbIterator
-  * DbUtils
-  * JSON
-  * Listener
-  * Listeners
-  * Logger
-  * Observable
-  * ThreadPool
+   * Convert
+   * CountingInputStream
+   * CountingOutputStream
+   * DbIterator
+   * DbUtils
+   * JSON
+   * Listener
+   * Listeners
+   * Logger
+   * Observable
+   * ThreadPool
  * Account
  * Attachment
  * Block
