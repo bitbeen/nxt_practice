@@ -19,6 +19,9 @@
    * GetNextBlocks
    * GetPeers
    * GetUnconfirmedTransactions
+   * Hallmark
+   * Peer
+   * PeerDb
    
    
  * user
