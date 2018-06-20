@@ -6,8 +6,8 @@
 * 底层实现
 * [基本架构](basic/readme.md)
   * [扩展层](basic/extentedg.md)
-  * [网络层](basic/wang-luo-ceng.md)
-  * [数据层  ](basic/shu-ju-ceng.md)
+  * [网络层](basic/net.md)
+  * [数据层](basic/data.md)
   * [README](basic/readme.md)
 * [透明锻造  ](tou-ming-duan-zao.md)
 * [源码分析](yuan-ma-fen-xi.md)
