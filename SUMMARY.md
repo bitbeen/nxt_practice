@@ -166,7 +166,7 @@
   * [TransactionType](source/transactiontype.md)
   * [VerifyTrace](source/verifytrace.md)
   * [Vote](source/vote.md)
-*  流程分析
+* 流程分析
   * readme
   * 交易处理
   * 区块处理
