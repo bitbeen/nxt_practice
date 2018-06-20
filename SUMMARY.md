@@ -32,6 +32,11 @@
  * Genesis
  * Hub
  * Nxt
+ * NxtException
+ * Order
+ * Poll
+ * Token
+ * Trade
  
  
  
