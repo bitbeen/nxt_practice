@@ -21,6 +21,7 @@
    * GetUnconfirmedTransactions
    * Hallmark
    * Peer
+   * PeerImpl
    * PeerDb
    
    
