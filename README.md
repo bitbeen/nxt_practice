@@ -1,3 +1,2 @@
-# My Awesome Book
+# Nxt-区块链技术实现指南
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
