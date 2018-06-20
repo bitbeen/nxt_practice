@@ -13,6 +13,19 @@
  * http
  * peer
  * user
+  * GenerateAuthorizationToken
+  * GetInitialData
+  * JSONResponses
+  * RemoveActivePeer
+  * RemoveBlacklistedPeer
+  * RemoveKnownPeer
+  * SendMoney
+  * UnlockAccount
+  * LockAccount
+  * User
+  * Users
+  * UserServlet
+  
  * util
   * Convert
   * CountingInputStream
