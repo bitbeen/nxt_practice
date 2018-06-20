@@ -5,10 +5,14 @@
 * 基本概念
 * 底层实现
 * 基本架构
- * HTTP-api
- * p2p-api
- * 共识层
+ * 扩展层
+ * 网络层
  * 数据层    
+* 源码分析
+ * Account
+ * Block
+ * Transaction
+ * Generator
 
 
 
