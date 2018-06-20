@@ -4,10 +4,11 @@
 * Nxt简介
 * 基本概念
 * 底层实现
-* [基本架构](ji-ben-jia-gou.md)
-  * [扩展层](ji-ben-jia-gou/kuo-zhan-ceng.md)
+* [基本架构](basic/readme.md)
+  * [扩展层](basic/extentedg.md)
   * 网络层
   * 数据层  
+  * README
 * [透明锻造  ](tou-ming-duan-zao.md)
 * [源码分析](yuan-ma-fen-xi.md)
   * crypto
