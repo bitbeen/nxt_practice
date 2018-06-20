@@ -166,9 +166,9 @@
   * [TransactionType](source/transactiontype.md)
   * [VerifyTrace](source/verifytrace.md)
   * [Vote](source/vote.md)
-  * 流程分析
-    * 交易处理
-    * 区块处理
-    * 透明锻造
-    * 区块同步
+* 流程分析
+  * 交易处理
+  * 区块处理
+  * 透明锻造
+  * 区块同步
 
