@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * Nxt简介
-* 基本概念
+* [基本概念](basic_concept/readme.md)
 * 底层实现
 * [基本架构](basic/readme.md)
   * [扩展层](basic/extentedg.md)
