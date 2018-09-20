@@ -1,9 +1,8 @@
 # Summary
 
 * [前言](README.md)
-* [Nxt简介](nxtjian-jie.md)
+* [简介](introduction/README.md)
 * [基本概念](basic_concept/readme.md)
-* [底层实现](di-ceng-shi-xian.md)
 * [基本架构](basic/readme.md)
   * [扩展层](basic/extentedg.md)
   * [网络层](basic/net.md)
