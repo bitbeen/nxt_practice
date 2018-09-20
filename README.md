@@ -4,10 +4,11 @@
 ## 适用对象
 希望本书能够帮助读者了解区块链，无论读者大学是学生物专业、材料专业或是其他与计算机无关的专业，都可以通过本书来来接触区块链，因为作者曾经学高分析材料出生的，阅读本书需要有一点Java基础。
 
-## 快速导航
-* [Nxt简介](nxtjian-jie.md)
+## 快速导航# Summary
+
+* [前言](README.md)
+* [简介](introduction/README.md)
 * [基本概念](basic_concept/readme.md)
-* [底层实现](di-ceng-shi-xian.md)
 * [基本架构](basic/readme.md)
   * [扩展层](basic/extentedg.md)
   * [网络层](basic/net.md)
